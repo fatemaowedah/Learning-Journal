@@ -1,6 +1,6 @@
 ## Welcome to Learning Journal Repo
 ### Growth midset
-*Grwoth midset it is butter than the fixed midset , because when you have Grwoth midset then you have Faith in your ability and you must have ambition, inspire and make an effort. 
+*Grwoth midset it is butter than the fixed midset , because when you have Grwoth midset then you have Faith in your ability and you must have ambition, inspire and make an effort.* 
 #### When you feel you are fell then remmber and encourge your selp with this sentence:
 1. I can do it.
 2. In everytime i fail i learn somethings new.
