@@ -3,8 +3,9 @@
 *Grwoth midset it is butter than the fixed midset , because when you have Grwoth midset how matter how much you fell one time you will successed.
 #### When you feel you are fell then remmber and encourge your selp with this sentence:
 1. I can do it.
-2. In everytime i fell i learn somethings new.
+2. In everytime i fail i learn somethings new.
 3. No body born with the knowledge for that search about it.
+4. belive in your self.
 
 
 #### Markdown
