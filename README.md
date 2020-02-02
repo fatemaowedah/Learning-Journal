@@ -1,9 +1,6 @@
 ## Welcome to Learning Journal Repo
 ### Growth midset
-*Grwoth midset it is butter than the fixed midset , because when you have Grwoth midset how matter how much you fell one time you will successed but if you have fixed midset you will be in your place whithout any movement .*
-# Header 1
-## Header 2
-### Header 3
+*Grwoth midset it is butter than the fixed midset , because when you have Grwoth midset how matter how much you fell one time you will \
 #### When you feel you are fell then remmber and encourge your selp with this sentence:
 1. I can do it.
 2. In everytime i fell i learn somethings new.
