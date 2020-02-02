@@ -22,7 +22,7 @@
 img![google](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/768px-Google_Chrome_icon_%28September_2014%29.svg.png)
 * If you need to put image then you use ilink[]()
 link[google](https://www.google.com/)
-eed to do unorder list *
+* to do unorder list 
 * order 1
 * order 2
 
