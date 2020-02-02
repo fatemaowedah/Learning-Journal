@@ -10,6 +10,6 @@
 [Grwoth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
-Iam Fatema Al-zahraa Owedah iam 24 years old  i graduated as Architecture from BAU .
-link[git hub](https://github.com/fatemaowedah)
+I am Fatema Al-zahraa Owedah iam 24 years old  i graduated as Architecture from BAU .
+You can Follow me in [Github](https://github.com/fatemaowedah)
 
