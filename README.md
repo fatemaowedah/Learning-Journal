@@ -6,26 +6,8 @@
 2. In everytime i fail i learn somethings new.
 3. No body born with the knowledge for that search about it.
 4. belive in your self.
-
-
-#### Markdown
-* If you need bold sentence then use **
-**Im Bold sentence**
-* If you need italic sentence then use *
-*Im Italic Sentance*
-* If you need very important header then use #
-# very important header
-* If you need not very important header then use ######
-###### not very important header
-* If you need quote then use > 
-> Im a qoute sentance
-* If you need to put image then you use img![]()
-img![google](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/768px-Google_Chrome_icon_%28September_2014%29.svg.png)
-* If you need to put image then you use ilink[]()
-link[google](https://www.google.com/)
-* to do unorder list 
-* order 1
-* order 2
+img![Grwoth midset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+link[Grwoth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
 Iam Fatema Al-zahraa Owedah iam 24 years old  i graduated as Architecture from BAU .
