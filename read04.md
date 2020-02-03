@@ -19,8 +19,22 @@
 8. **Visual hierarchy:**
  *helps visitors   understand what  you are trying to tell them.*
 
-
 For more information [HTML&CSS](file:///C:/Users/fatem/Downloads/HTML%20CSS.pdf)
+
+# HTML5 Layout
+ *HTML5 is introducing a new set of elements that help define the structure of a page.*
+## Html5 Layout Elements:
+  1. Header use `<header>`
+  2. Footer use `<footer>` 
+  3. Navigation use `<nav>` 
+  4. Article use `<article>`
+  5. Asides use `<aside>`
+  6. Sections use `<section>`
+  7. Heading Group use `<hgroup>`
+  8. Figures use `<figure>` `<figcaption>`
+  9. Sectioning elements use `<div>`
+
+
 
   
 
