@@ -34,6 +34,20 @@ For more information [HTML&CSS](file:///C:/Users/fatem/Downloads/HTML%20CSS.pdf)
   8. Figures use `<figure>` `<figcaption>`
   9. Sectioning elements use `<div>`
 
+# Extra Markup
+## The Evolution of HTML:
+ *Html have different versions the newest one called html5.*
+ 1. Doctypes `<!doctype html>`
+ 2. Comment in html `<!--  -->`
+ 3. ID Attribute `id="name" inside elemant tag`
+ 4. Class Attribute `class="name" inside elemant tag`
+ 5. Block Elements : always appear to start on a new line. 
+ 6. Inline elemants :  always appear to continue on the same line as their neighbouring elements. 
+ 7. Grouping Text & Elements In a Block: use `<div>`
+ 8. Grouping Text & Elements Inline: use `<span>`
+ 9. Iframe  use `<iframe>`
+
+
 
 
   
