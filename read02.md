@@ -48,8 +48,10 @@ write in comand
  - if you need to now where is you then use `pwd`
  - if you need to do list `ls`
  - if you need to change directors `cd`
+ 
  For more information [Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-3. [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+3. More About Files
+For more information [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 
 
