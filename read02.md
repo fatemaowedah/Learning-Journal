@@ -3,10 +3,11 @@
 *There is alot of text editor each one preffered program* 
 ### What is a text editor:
 *a piece of software that you download and insyall on computer.*
-#### Feature of text editor:
+### Feature of text editor:
 1. Code completion.
 2. Syntax highlighting.
 3. Emmet speed up your code writting faster.
+
 ### type of text-editor in your computer
 1. Text Edit on mac .
 2. Notepad on Windows computers.
