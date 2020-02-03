@@ -1,8 +1,7 @@
-#The process that you can use when you are creating a new website.
+# The process that you can use when you are creating a new website.
 1. **Target Audience :**
   * Individuals
   * Companies
-    
 2. **Why people visit you website:**
  *Most of pepole will visit your website for a specific reason, So your content and design should be influenced by the goals of your users then you must determine the key motivation and specific goals before making your website.* 
 3. **What Your Visitors are Trying to Achieve :**
