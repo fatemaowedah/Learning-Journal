@@ -22,8 +22,20 @@
 6. Sublime Text
 
 ### Linux Tutorial:
-1. [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-2. [Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+1. The Command Line
+A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+#### How its work:
+  - user@branch:Command/place
+  ............
+  ............
+  ............
+  ............
+    user@branch:Command/place
+    row 2-5 output of running
+For more information [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+2. Navigation
+
+ For more information [Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 3. [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 
