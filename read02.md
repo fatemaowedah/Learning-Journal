@@ -25,16 +25,29 @@
 1. The Command Line
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 #### How its work:
+
   - user@branch:Command/place
+  
   ............
+  
   ............
+  
   ............
+  
   ............
+  
     user@branch:Command/place
+    
     row 2-5 output of running
+    
 For more information [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 2. Navigation
 
+write in comand
+ - if you need to now where is you then use `pwd`
+ - if you need to do list `ls`
+ - if you need to change directors `cd`
  For more information [Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 3. [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
