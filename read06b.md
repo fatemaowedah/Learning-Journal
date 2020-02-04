@@ -12,4 +12,4 @@
 
 ## CPU, Memory, Input & Output
 see the below picture to see the relation between them
-![how computer work](how computer work.jpeg)
+![how computer work](/computer.jpeg)
