@@ -9,10 +9,7 @@
  Name | Link
 ------------ | -------------
  Markdown | [Markdown](https://fatemaowedah.github.io/learning-journal/read01)
- 
  Text editor | [Text editor](https://fatemaowedah.github.io/learning-journal/read02)
- 
  Create Website | [Create Website](https://fatemaowedah.github.io/learning-journal/read04)
- 
  Get Intro | [Get Intro](https://github.com/fatemaowedah/learning-journal/blob/master/Git%20Intro.md)
 
