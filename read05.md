@@ -10,7 +10,7 @@
 ## Color:
 *Color can really bring your pages to life.*
 ## there is many way to put color:
- * RGB Values:These express colors in terms of how much red, green and blue .
+    * RGB Values:These express colors in terms of how much red, green and blue .
     * hex Codes:These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
     * Color names
 ### Background color :
