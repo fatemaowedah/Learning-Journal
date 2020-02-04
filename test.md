@@ -5,7 +5,7 @@
 
 **Table of Contant:**
  Name | Link
- ----- | -----
+ ---- | ----
  Markdown | [Markdown](https://fatemaowedah.github.io/learning-journal/read01)
  
  Text editor | [Text editor](https://fatemaowedah.github.io/learning-journal/read02)
