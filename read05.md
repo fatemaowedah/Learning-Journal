@@ -5,8 +5,8 @@
   *Css rule consist of:* `selctor {decaration}`
   example : `p {font-family:Arial;}`
   *decaration consist of: 
-  1. property.
-  2. value.
+  * property.
+  * value.
 ## Color:
 *Color can really bring your pages to life.*
 
