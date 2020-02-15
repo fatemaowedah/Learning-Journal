@@ -142,9 +142,9 @@ Each of the lines of code in green is a statement
 * Variable :
   the data stored in a variable can change each time a script runs.
   * `var quantity= 3;`
-    * var:keyword 
-    * quantity:variable name.
-    * 3:variable value.
+    * `var`:keyword 
+    * `quantity`:variable name.
+    * `3`:variable value.
   * using of variable:
     * store number
     * store string
