@@ -1,17 +1,17 @@
 # HTML:
-HTML pages are text documents.
+**HTML pages are text documents.**
 ## Introdution:
 ### How pepole access the Web:
-* access websites using software (web browser). 
-* When you ask your browser for a web page, the request is sent to a special computer (web server).
-* Screen readers are programs that read out the contents of a computer screen to a user. 
+* *access websites using software (web browser).*
+* *When you ask your browser for a web page, the request is sent to a special computer (web server).*
+* *Screen readers are programs that read out the contents of a computer screen to a user.* 
 ### How website are created:
-* Small website are often written just using HTML and CSS.
-* Large website are often using HTML,CSS,PHP,and java.
+* *Small website are often written just using HTML and CSS.*
+* *Large website are often using HTML,CSS,PHP,and java.*
 
 ## Structure:
 ### HTML Elements:
-Elements are usually made up of two tags:
+*Elements are usually made up of two tags:*
 * Opening tag:
 `<p>` 
   * `<` Left angle bracket.
@@ -28,13 +28,14 @@ Elements are usually made up of two tags:
   * `lang` Attribute name.
   * `"en-us"` Attribute value.
 
-Body, Head & Title.
 
-`<body>` Anything written between the <body> tags will appear in the main browser window.
+*Body, Head & Title.*
 
-`<head>` This contains information about the page.
+`<body>` *Anything written between the <body> tags will appear in the main browser window.*
 
-`<title>` shown in the top of the browser.
+`<head>` *This contains information about the page.*
+
+`<title>` *shown in the top of the browser.*
 
 ## Extra Markup:
 * Several different versions of HTML:
