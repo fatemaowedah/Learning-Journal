@@ -39,7 +39,7 @@
 
 ## Extra Markup:
 * Several different versions of HTML:
-DOCTYPES tell browsers which version of HTML are using.
+*DOCTYPES tell browsers which version of HTML are using.*
 * Comments in HTML:
 `<!-- -->`
 To add a comment that will not be visible in the user's browser.
@@ -149,10 +149,10 @@ Each of the lines of code in green is a statement
     * `quantity`:variable name.
     * `3`:variable value.
   * using of variable:
-    * store number
-    * store string
-    * quotes inside a string.
-    * Store a boolean.
+    1. store number
+    2. store string
+    3. quotes inside a string.
+    4. Store a boolean.
 
 
 
